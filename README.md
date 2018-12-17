@@ -1,2 +1,2 @@
 # zimbra
-Scripts de Zimbra
+Scripts de Zimbra para realizar configuracion y tuning postinstalacion.
